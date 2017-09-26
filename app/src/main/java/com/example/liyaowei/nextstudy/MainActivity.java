@@ -38,4 +38,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void feature1(View view) {
+    }
+
 }
